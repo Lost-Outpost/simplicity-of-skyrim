@@ -43,7 +43,7 @@
 
 # Introduction
 
-Simplicity of Skyrim is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
+Simplicity of Skyrim is A minimalist modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking and makes minimal invasive changes to your game world. It's intended for players to be able to import their vanilla save and experience new content and gameplay opportunities without having to start all the way over again. Finally, a cure for restartitis! Simplicity of Skyrim should in theory never need any save-breaking changes due to its minimally invasive nature.
 
 ## List Contents
 
