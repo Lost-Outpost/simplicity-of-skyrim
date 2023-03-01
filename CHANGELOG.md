@@ -20,6 +20,7 @@
 
 ### Added
 + Aetherius - A Race Overhaul
++ More To Say (Merged)
 
 ## Version 1.0.0
 Brand new :)
