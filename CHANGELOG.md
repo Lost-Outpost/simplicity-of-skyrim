@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.0.2
+
+### Fixed
++ Amulet of Arkay wrong bonus (You will need to refresh the blessing if you have it currently)
+
 ## Version 1.0.1
 
 ### Added
