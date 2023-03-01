@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 1.0.3
+
+**I really missed the food changes from apothecary. I feel they make food a lot more worthwhile to make.**
+
+### Added
++ Apothecary Food (Not potions)
++ Huntsman - Apothecary Patch
++ Brewer - Apothecary Patch
+
 ## Version 1.0.2
 
 ### Fixed
