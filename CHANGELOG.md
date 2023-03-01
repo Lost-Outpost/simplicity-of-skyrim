@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 1.0.4
+
+### Added
++ Ammo Enchanting
++ Streamlined Fishing
++ Alchemy Plus
+
+### Updated
++ Mysticism
++ Inventory Interface Injector
+
 ## Version 1.0.3
 
 **I really missed the food changes from apothecary. I feel they make food a lot more worthwhile to make.**
