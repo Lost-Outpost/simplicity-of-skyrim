@@ -16,6 +16,14 @@
 
 # Changelog
 
+## Version 1.0.5
+
+### Added
++ Discord Rich Presence
+
+### Removed
++ Nordic Snow (Using fixed skyland snow)
+
 ## Version 1.0.4
 
 ### Added
