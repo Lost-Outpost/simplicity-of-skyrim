@@ -16,5 +16,10 @@
 
 # Changelog
 
+## Version 1.0.1
+
+### Added
++ Aetherius - A Race Overhaul
+
 ## Version 1.0.0
 Brand new :)
