@@ -24,6 +24,9 @@
 ### Updated
 + Rudy ENB Custom Config
 
+### Fixed
++ Missing Wyrmstooth Mysticism Patch
+
 ## Version 1.0.5
 
 ### Added
