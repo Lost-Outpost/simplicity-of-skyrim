@@ -16,6 +16,13 @@
 
 # Changelog
 
+## Version 1.0.8
+
+### Added
++ Skyforge Steel - Art and Honor
++ Snow Elf Weapons
++ Versatile Item and Group Re-Assignment
+
 ## Version 1.0.7
 
 ### Added
