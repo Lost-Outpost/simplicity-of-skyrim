@@ -30,6 +30,12 @@ The following are things that could prevent you from importing a vanilla save
 
 Please do your best to avoid the above situations and import on a save that is in a neutral place.
 
+## The TLDR
+* Try to import an existing save with ZERO mods in a neutral location not in the middle of a quest
+* Use the free `Draught of Fate Unwound` on first load to reset your perk points and choose new ones
+* If you notice certain quests start earlier than they should, [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) and [RAE Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) were added too late to apply to those quests
+* Certain items may take some time to appear on enemies or in vendors on existing saves
+
 ## Important Mod Considerations
 Certain mods may not fully apply if added to existing saves (this is okay). The following are some notable ones.
 
