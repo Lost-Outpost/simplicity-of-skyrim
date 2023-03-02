@@ -43,7 +43,7 @@
 
 # Introduction
 
-Simplicity of Skyrim is A minimalist modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking and makes minimal invasive changes to your game world. It's intended for players to be able to import their vanilla save and experience new content and gameplay opportunities without having to start all the way over again. Finally, a cure for restartitis! Simplicity of Skyrim should in theory never need any save-breaking changes due to its minimally invasive nature.
+Simplicity of Skyrim is A minimalist modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking and makes minimal invasive changes to your game world. It's intended for players to be able to [import their vanilla save](https://github.com/Lost-Outpost/simplicity-of-skyrim/blob/main/EXISTINGSAVE.md) and experience new content and gameplay opportunities without having to start all the way over again. Finally, a cure for restartitis! Simplicity of Skyrim should in theory never need any save-breaking changes due to its minimally invasive nature.
 
 ## List Contents
 
@@ -155,6 +155,9 @@ If this Modlist receives an update, please check the [changelog](CHANGELOG.md) b
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+# Existing Saves
+This modist is designed to be able to be added to existing saves. Please follow [these](https://github.com/Lost-Outpost/simplicity-of-skyrim/blob/main/EXISTINGSAVE.md) instructions to ensure your save is imported smoothly.
 
 # Startup
 
