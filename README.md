@@ -37,6 +37,7 @@
   - [Steam Deck](#steam-deck)
   - [Skyrim GOG](#skyrim-gog)
 - [Updating](#updating)
+- [Existing Saves](#existing-saves)
 - [Startup](#startup)
 - [Issues](#issues)
 - [Simplicity of Skyrim Team](#simplicity-of-skyrim-team)
