@@ -16,6 +16,14 @@
 
 # Changelog
 
+## Version 1.0.6
+
+### Added
++ ENB IMOD Separator + Rudy ENB Patch
+
+### Updated
++ Rudy ENB Custom Config
+
 ## Version 1.0.5
 
 ### Added
