@@ -54,4 +54,4 @@ and some perks are invalidated. On initial load, your player will be granted a f
 your perk points and re-make any new perk selections you'd like. There will be some new and interesting options available to try!
 
 ### Gear and Enchantments
-Some gear has been rebalanced. Notably, [Creation Club Rebalancing](https://www.nexusmods.com/skyrimspecialedition/mods/59370) will 
+Some gear has been rebalanced. Notably, [Creation Club Rebalancing](https://www.nexusmods.com/skyrimspecialedition/mods/59370) will apply to already acquired items. [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) also applies to existing spells as well as adds new ones and those changes will apply immediately as well.
