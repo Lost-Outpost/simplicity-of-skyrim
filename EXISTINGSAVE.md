@@ -31,6 +31,7 @@ The following are things that could prevent you from importing a vanilla save
 Please do your best to avoid the above situations and import on a save that is in a neutral place.
 
 ## The TLDR
+* You will need to copy your save file into the the provided MO2 profile under `(Install Location)/profiles/Simplicity of Skyrim/saves`.
 * Try to import an existing save with ZERO mods in a neutral location not in the middle of a quest
 * Use the free `Draught of Fate Unwound` on first load to reset your perk points and choose new ones
 * If you notice certain quests start earlier than they should, [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) and [RAE Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) were added too late to apply to those quests
