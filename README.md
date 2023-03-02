@@ -44,7 +44,7 @@
 
 # Introduction
 
-Simplicity of Skyrim is A minimalist modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking and makes minimal invasive changes to your game world. It's intended for players to be able to [import their vanilla save](https://github.com/Lost-Outpost/simplicity-of-skyrim/blob/main/EXISTINGSAVE.md) and experience new content and gameplay opportunities without having to start all the way over again. Finally, a cure for restartitis! Simplicity of Skyrim should in theory never need any save-breaking changes due to its minimally invasive nature.
+Simplicity of Skyrim is a minimalist modlist containing essential fixes and tools along with a lightweight visual overhaul. It contains some optional gameplay and content addons that can be customized to your liking and is intended for players to be able to [import their vanilla save](https://github.com/Lost-Outpost/simplicity-of-skyrim/blob/main/EXISTINGSAVE.md) without having to start all the way over again. Finally, a cure for restartitis! Simplicity of Skyrim should in theory never need any save-breaking changes due to its minimally invasive nature.
 
 ## List Contents
 
