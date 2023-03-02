@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 1.0.7
+
+### Added
++ Ruins Clutter Improved + Fixes
++ Bruma Signs SMIM
+
 ## Version 1.0.6
 
 ### Added
