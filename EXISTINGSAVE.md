@@ -18,7 +18,7 @@
 For players importing their vanilla save into Simplicity of Skyrim, please use the following instructions to help ensure your save does not get broken. 
 
 ## Initial Warnings
-:warning: **WARNING: Adding this to your existing save is fine, removing it may run into issues and you do this at your own risk.**
+:warning: **WARNING: Adding this to your existing save is fine, removing it may cause issues and you do this at your own risk. If you are unhappy with the list, it is recommended to load an older save before the list was downloaded.**
 
 Adding mods on top of an existing save is always dangerous and can cause some issues. I've done my absolute best to reduce the sources of instability in this modlist
 and have tested quite a few vanilla saves myself for stability and all has been smooth. 
