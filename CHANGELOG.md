@@ -21,6 +21,8 @@
 ### Added
 + Ruins Clutter Improved + Fixes
 + Bruma Signs SMIM
++ Peltapalooza
++ Rugnarok
 
 ## Version 1.0.6
 
