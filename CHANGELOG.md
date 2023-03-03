@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.0.10.1
+
+### Removed
++ ERM - Enhanced Rocks and Mountains (Causing crashes sometimes)
+
 ## Version 1.0.10
 
 ### Added
