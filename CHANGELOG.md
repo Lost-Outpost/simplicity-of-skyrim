@@ -16,6 +16,21 @@
 
 # Changelog
 
+## Version 1.0.10
+
+### Added
++ Compass Navigation Overhaul
++ CC Zombies - Adamant Mysticism Rebalance
++ ERM - Enhanced Rocks and Mountains
+
+## Version 1.0.9
+
+### Added
++ Word Wall Transparency Fix
+
+### Updated
++ Arcane Accessories - Rebalance Patch
+
 ## Version 1.0.8
 
 ### Added
