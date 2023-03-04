@@ -16,6 +16,13 @@
 
 # Changelog
 
+## Version 1.0.11 [Unreleased]
+
+### Added
++ Skyforge Steel - Better Shaped Weapons
++ Follower Trap Safety
++ ERM - Enhanced Rocks and Mountains (Fixed)
+
 ## Version 1.0.10.1
 
 ### Removed
