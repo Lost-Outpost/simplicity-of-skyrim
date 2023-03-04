@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.0.11 [Unreleased]
+## Version 1.0.11
 
 ### Added
 + Skyforge Steel - Better Shaped Weapons
