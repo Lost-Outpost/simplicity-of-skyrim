@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.0.11.1
+
+### Removed
++ ERM - Enhanced Rocks and Mountains (Yeeted into the sun. Goodbye)
+
 ## Version 1.0.11
 
 ### Added
