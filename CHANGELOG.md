@@ -16,7 +16,18 @@
 
 # Changelog
 
-## Version 1.0.11.1
+## Version 1.0.13 [Unreleased]
+
+### Added
++ Ancient Knowledge - Automation Summoning
++ Ballista Crash Fix
+
+### Updated
++ Merchant
++ Ammo Enchanting
++ DynDOLOD Output (Better performnace)
+
+## Version 1.0.12
 
 ### Removed
 + ERM - Enhanced Rocks and Mountains (Yeeted into the sun. Goodbye)
