@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.0.13 [Unreleased]
+## Version 1.0.13
 
 ### Added
 + Ancient Knowledge - Automation Summoning
